@@ -1,16 +1,16 @@
-# [Your Project Title Here]
+# The Effect of Pre-Primary Education on Student Achievement in Germany: A Double Machine Learning Approach Using PISA 2022
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+https://github.com/julianlohmann/CausalMLproject/edit/main/README.md
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+This project examines whether participation in pre-primary education is associated with higher academic achievement among 15-year-old students in Germany. The analysis uses the German subsample of PISA 2022 and focuses on a binary treatment variable indicating whether a student attended pre-primary education. As an outcome, students’ reading achievement is used, operationalized through the available PISA reading plausible values in a simplified way suitable for a seminar project.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Causal inference
 
 ### Results Summary
 
