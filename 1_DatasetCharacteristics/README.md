@@ -33,11 +33,10 @@
 
 ## Exploratory Data Analysis
 
-The exploratory data analysis is conducted in the [exploratory_data_analysis.ipynb](exploratory_data_analysis.ipynb) notebook, which includes:
+The exploratory data analysis is conducted in the [PISA2022_DEU_EDA_PRESCHOOL.ipynb](PISA2022_DEU_EDA_PRESCHOOL.ipynb) notebook, which includes:
 
 - Data loading and initial inspection
 - Statistical summaries and distributions
 - Missing value analysis
 - Feature correlation analysis
 - Data visualization and insights
-- Data quality assessment
