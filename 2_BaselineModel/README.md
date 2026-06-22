@@ -1,4 +1,4 @@
-# Baseline Model
+# Double Machine Learning for Estimating the Average Treatment Effect
 
 **[Notebook](baseline_model.ipynb)**
 
